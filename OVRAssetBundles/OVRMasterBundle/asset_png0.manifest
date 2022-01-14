@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 933921563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bd8f5f94cd23c12b761d6185e4cb22a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BlockySpaceShips/Fighter/SkyBox/GalaxyBgSkyBox_4096px_right1.png
+- Assets/BlockySpaceShips/Fighter/FbxModel/Texture/Ship_Fiter_ [Emissive].png
+- Assets/BlockySpaceShips/Fighter/FbxModel/Texture/Ship_Fiter_ [Albedo].png
+- Assets/Textures/3dGridTestCropped.png
+- Assets/BlockySpaceShips/Fighter/SkyBox/GalaxyBgSkyBox_4096px_left2.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/BlockySpaceShips/Fighter/SkyBox/GalaxyBgSkyBox_4096px_top3.png
+- Assets/BlockySpaceShips/Fighter/FbxModel/Texture/Ship_Fiter_ [Specular].png
+- Assets/BlockySpaceShips/Fighter/FbxModel/Texture/Ship_Fiter_ [Normal].png
+- Assets/BlockySpaceShips/Fighter/SkyBox/GalaxyBgSkyBox_4096px_bottom4.png
+- Assets/BlockySpaceShips/Fighter/SkyBox/GalaxyBgSkyBox_4096px_front5.png
+- Assets/BlockySpaceShips/Fighter/SkyBox/GalaxyBgSkyBox_4096px_back6.png
+Dependencies: []

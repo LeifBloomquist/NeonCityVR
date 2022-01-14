@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 691582179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2d453ad997708b9e38d9e5948132e20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77bd1314a7a5230bc6aee24bf0139ad3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aed62bf3ae2456c408f247f96808ce96, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Neon Buildings/Neon_Building08.prefab
+- Assets/Neon Buildings/Neon_Building07.prefab
+- Assets/Neon Buildings/Neon_Building05.prefab
+- Assets/BlockySpaceShips/Fighter/BlockyShip_Fighter.prefab
+- Assets/Neon Buildings/Neon_Building04.prefab
+- Assets/Neon Buildings/Neon_Building02.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/Neon Buildings/Neon_Building06.prefab
+- Assets/Neon Buildings/Neon_Building10.prefab
+- Assets/Neon Buildings/Neon_Building09.prefab
+- Assets/Oculus/VR/Prefabs/OVRControllerPrefab.prefab
+- Assets/Neon Buildings/Neon_Building03.prefab
+- Assets/Neon Buildings/Neon_Building01.prefab
+Dependencies:
+- C:/Leif/3D/Unity/NeonCityVRTest/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Leif/3D/Unity/NeonCityVRTest/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Leif/3D/Unity/NeonCityVRTest/OVRAssetBundles/OVRMasterBundle/asset_mat0

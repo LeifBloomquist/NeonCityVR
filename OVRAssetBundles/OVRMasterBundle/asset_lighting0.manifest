@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1324209963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8583257e41a44bc34f5ab9a63d2f814
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb1c98fd3fd2df8fe937870a85fedf92
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/BigCitySettings.lighting
+Dependencies: []

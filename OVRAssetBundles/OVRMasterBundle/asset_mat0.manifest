@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3228109475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df7382588b5f38e262cd26386fc0cd09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/BlockySpaceShips/Fighter/FbxModel/Materials/BlockyShip_Fiter_mat.mat
+- Assets/BlockySpaceShips/Fighter/FbxModel/Materials/No Name.mat
+- Assets/Neon Buildings/Material/MAT_Glass.mat
+- Assets/Materials/Green.mat
+- Assets/Neon Buildings/Material/MAT_Blue_Dynamic.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Skybox/Galaxy/SkyBox_Mat.mat
+- Assets/Materials/3dGridTestCropped.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Neon Buildings/Material/MAT_Wall.mat
+- Assets/Neon Buildings/Material/MAT_Red_Dynamic.mat
+Dependencies:
+- C:/Leif/3D/Unity/NeonCityVRTest/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Leif/3D/Unity/NeonCityVRTest/OVRAssetBundles/OVRMasterBundle/asset_tga0

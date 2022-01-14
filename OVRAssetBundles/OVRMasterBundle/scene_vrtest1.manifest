@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3260050713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed0c087b4ba5f53e10f5ad60dfa4f730
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10e01ffb7dd6ecf208635782905a238f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d9de83ccb8d9f94b82649f16498845a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/VRTest1.unity
+Dependencies:
+- C:/Leif/3D/Unity/VRTest1/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Leif/3D/Unity/VRTest1/OVRAssetBundles/OVRMasterBundle/asset_prefab0
